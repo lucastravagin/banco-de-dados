@@ -4,6 +4,6 @@ Se eu armazenar a palavra LUCAS no banco de dados, estarei utilizando 5 Bytes, o
 
 É importante saber utilizar o tipo de um campo no banco de dados, pois
 
-CHAR - VALOR FIXO - O NÚMERO NUNCA VAI VARIAR
-VARCHAR - VALOR VARIÁVEL
+CHAR - VALOR FIXO - O NÚMERO NUNCA VAI VARIAR - Ocupa um valor fixo, colocar sempre quando se sabe o quanto vai usar
+VARCHAR - VALOR VARIÁVEL - Ocupa um valor variável
 */
